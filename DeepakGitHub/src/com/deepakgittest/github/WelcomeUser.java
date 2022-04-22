@@ -10,6 +10,10 @@ public class WelcomeUser {
 		//Code added by Automation team
 		
 		System.out.println("Automation scripting is done!");
+		
+		//Code added by UAT team
+		
+		System.out.println("Code Updated!");
 
 	}
 
